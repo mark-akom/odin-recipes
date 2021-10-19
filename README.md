@@ -1,0 +1,1 @@
+This project is about some awesome recipes any individual who love to cook and enjoying eating thier meal. This website will be built using HTML skills I have gained from the odin project curricullum. The website will be built mainly with HTML5 and it will be without any styling.
