@@ -1,0 +1,33 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.heading { 
+    font-size: 40px;
+    color: #a86603;
+    letter-spacing: 2px;
+}
+
+.recipe-image {
+    width: 400px;
+    height: auto;
+}
+
+.sub-heading {
+    font-size: 30px;
+}
+
+.recipe-intro {
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(63, 63, 63);
+}
+
+.ingredients-list,
+.steps-list {
+    background-color: rgb(172, 172, 172);
+}
+
+.content-heading {
+    color: #a86603;
+}

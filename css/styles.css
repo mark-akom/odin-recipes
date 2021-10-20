@@ -1,0 +1,19 @@
+* {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    text-transform: uppercase;
+    color: #a86603;
+    letter-spacing: 5px;
+}
+
+a {
+    color: rgb(44, 44, 133);
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: lowercase;
+    word-spacing: 2px;
+}
